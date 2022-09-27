@@ -6,27 +6,13 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+The developer Acwok does not collect, store or share usage data with any of their watch faces available on Play store. Capsule Watchface does not store any personal information and share information with any third party company. Watch faces require certain permissions such as battery level, heart rate, weather, calendar and health data in order for complications to be functioning on the watch. You can find out about these permissions in the App info section on your watch & phone. We may change or update this privacy policy. Please visit this section to review the latest policy. If you have any questions regarding this policy please email acwok@outlook.com"
+
 
 **PERSONAL INFORMATION WE COLLECT**
 
-{% if site.analytics.google %}
-
-Automatically Collected (Google Analytics):
-
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
-
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
-
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
-
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
-
-{% else %}
-
-We do not collect any data about you or use any cookies.
-
-{% endif %}
+We do not collect, store, or share any data with out Capsule Watchface.  
+Watch faces require certain permissions such as battery level, heart rate, weather, calendar and health data in order for complications to be functioning on the watch. You can find out about these permissions in the App info section on your watch and phone.
 
 **CHANGES**
 
