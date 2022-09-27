@@ -2,7 +2,7 @@
 
 **PERSONAL INFORMATION WE COLLECT**
 
-We do not collect, store, or share any data with out Capsule Watchface.  
+We do not collect, store, or share any data with Capsule Watchface.  
 Watch faces require certain permissions such as battery level, heart rate, weather, calendar and health data in order for complications to be functioning on the watch. You can find out about these permissions in the App info section on your watch and phone.
 
 **CHANGES**
