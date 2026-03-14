@@ -1,4 +1,6 @@
-Privacy Policy for Capsule Watchface
+<head>
+    <title>Privacy Policy - Capsule Watchface</title>
+</head>
 Last updated: March 14, 2026
 
 This Privacy Policy describes how your personal information is handled when you use the Capsule Watchface for Wear OS.
