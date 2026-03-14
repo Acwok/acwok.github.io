@@ -1,8 +1,3 @@
----
-title: Privacy Policy - Capsule Watchface
-layout: default
----
-
 # Privacy Policy for Capsule Watchface
 
 **Last updated: March 14, 2026**
